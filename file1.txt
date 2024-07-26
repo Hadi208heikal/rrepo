@@ -1,2 +1,3 @@
 hello, hadi
 second line in file1.txt
+third line added
